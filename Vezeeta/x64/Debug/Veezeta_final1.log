@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\youss\OneDrive\Desktop\Veezeta_final\Veezeta_final1\Source.cpp(136,11): warning C4101: 'dwReturn': unreferenced local variable
+C:\Users\youss\OneDrive\Desktop\Veezeta_final\Veezeta_final1\Source.cpp(695): warning C4715: 'spec_name': not all control paths return a value
+  Veezeta_final1.vcxproj -> C:\Users\youss\OneDrive\Desktop\Veezeta_final\x64\Debug\Veezeta_final1.exe
